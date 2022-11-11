@@ -9,6 +9,6 @@
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
 
-        <Button Text="Start the show" Clicked="Button_Clicked"/>
+        <Button Text="Open tabbed page" Clicked="Button_Clicked"/>
     </VerticalStackLayout>
 </ContentPage>
